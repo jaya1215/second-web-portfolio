@@ -127,6 +127,21 @@ section{
     font-weight: 700;
     border-radius: 6px;
 }
+.part{
+    text-align: center;
+    margin-bottom: 10%;
+    color: dimgray;
+}
+.part img{
+    height: 30px;
+    width: 30px;
+}
+.part h4{
+    font: bolder;
+    font-size: larger;
+    color: black;
+}
+
 
 
 
